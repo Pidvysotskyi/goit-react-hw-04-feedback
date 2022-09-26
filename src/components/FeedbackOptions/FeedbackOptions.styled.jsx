@@ -8,4 +8,6 @@ export const ButtonList = styled.ul`
 
 export const Button = styled.button`
   padding: 10px;
+  width: 120px;
+  font-size: 18px;
 `;
